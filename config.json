@@ -1,5 +1,5 @@
 ﻿{
-  "BeneficiaryAddr": "",
+  "BeneficiaryAddr": "NKNKn6ehPruo1iuNFUt25fHpxLw5xdeVUeiH",
   "StatePruningMode": "lowmem",
   "SeedList": [
     "http://mainnet-seed-0001.nkn.org:30003",
